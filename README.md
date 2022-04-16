@@ -12,7 +12,6 @@ Network Ananlysis is carried out about of American Football Teams during the ses
 - Gephi 
 - Ms Word 
 - Adobe Acrobat Reader 
-- Github 
 
 ## Pipeline of the Project:
 - Importing the dataset on gephi 
@@ -23,7 +22,7 @@ Network Ananlysis is carried out about of American Football Teams during the ses
 - Making report of the entire process with visuals
 
 ## Communities in the Network:
-<img width="721" alt="Screenshot 2022-04-16 at 11 10 39 AM" src="https://user-images.githubusercontent.com/93240943/163663206-e313a178-3463-483c-be49-a2a0d033ccf8.png">
+<img width="461" alt="Screenshot 2022-04-16 at 11 13 40 AM" src="https://user-images.githubusercontent.com/93240943/163663310-f4e74638-7770-469e-8580-874d44ecc482.png">
 
 
 ## About Files:
